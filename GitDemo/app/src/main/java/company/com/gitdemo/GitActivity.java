@@ -24,9 +24,6 @@ public class GitActivity extends Activity {
         });
     }
 
-    // New comment
-    // Fuck ur skins
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
