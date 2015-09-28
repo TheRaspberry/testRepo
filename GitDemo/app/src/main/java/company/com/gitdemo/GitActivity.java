@@ -24,7 +24,6 @@ public class GitActivity extends Activity {
         });
     }
 
-
     // New comment
     // Fuck ur skins
 
