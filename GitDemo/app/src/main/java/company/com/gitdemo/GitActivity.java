@@ -19,9 +19,7 @@ public class GitActivity extends Activity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast hey = new Toast(v.getContext());
-                hey.setText("Hey");
-                hey.show();
+                Toast.makeText(GitActivity.this, "Hey", Toast.LENGTH_SHORT);
             }
         });
     }
