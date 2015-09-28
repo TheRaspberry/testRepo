@@ -26,6 +26,7 @@ public class GitActivity extends Activity {
 
 
     // New comment
+    // EZ
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
